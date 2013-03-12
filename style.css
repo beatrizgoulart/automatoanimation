@@ -1,0 +1,80 @@
+body{
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+h1{
+	margin-left: 130px;
+	padding-top: 20px;
+}
+
+.button{
+	color: rgb(71, 71, 71);
+	font-size: 13px;
+	padding: 10px;
+	text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.25);
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+	background: rgb(202, 202, 202);
+	background: -moz-linear-gradient(90deg, rgb(202, 202, 202) 7%, rgb(255, 255, 255) 70%);
+	background: -webkit-linear-gradient(90deg, rgb(202, 202, 202) 7%, rgb(255, 255, 255) 70%);
+	background: -o-linear-gradient(90deg, rgb(202, 202, 202) 7%, rgb(255, 255, 255) 70%);
+	background: -ms-linear-gradient(90deg, rgb(202, 202, 202) 7%, rgb(255, 255, 255) 70%);
+	background: linear-gradient(0deg, rgb(202, 202, 202) 7%, rgb(255, 255, 255) 70%);
+	-webkit-box-shadow: 0px 1px 4px rgba(71, 71, 71, 0.75);
+	-moz-box-shadow:    0px 1px 4px rgba(71, 71, 71, 0.75);
+	box-shadow:         0px 1px 4px rgba(71, 71, 71, 0.75);
+	border: none;
+	cursor: auto;
+	margin-top: 25px;
+	margin-left: 80px;
+}
+
+#info p{
+	font-family: Tahoma, Arial, sans-serif;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	background-color: white;
+	width: 213px;
+	padding: 10px;
+	margin-left: 125px;
+}
+
+#info{
+	height: 42px;
+}
+
+#show{
+	width: 375px;
+	height: 260px;
+	background-color: white;
+	margin-top: 18px;
+	margin-left: 62px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+}
+
+#show img{
+	margin-left: 100px;
+	margin-top: 80px;
+}
+
+.page{
+	background: rgb(66, 141, 31);
+	background: -moz-linear-gradient(90deg, rgb(88, 180, 44) 5%, rgb(143, 207, 72) 70%);
+	background: -webkit-linear-gradient(90deg, rgb(88, 180, 44) 5%, rgb(143, 207, 72) 70%);
+	background: -o-linear-gradient(90deg, rgb(88, 180, 44) 5%, rgb(143, 207, 72) 70%);
+	background: -ms-linear-gradient(90deg, rgb(88, 180, 44) 5%, rgb(143, 207, 72) 70%);
+	background: linear-gradient(180deg, rgb(88, 180, 44) 5%, rgb(143, 207, 72) 70%);
+	width: 500px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	height: 500px;
+	margin-left: 50%;
+	position: relative;
+	left: -250px;
+	margin-top: 100px;
+}
